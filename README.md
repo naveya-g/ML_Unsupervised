@@ -1,9 +1,6 @@
 # ML_Unsupervised
+The project consists of two parts, both leveraging unsupervised learning techniques:
 
-The projects contains 2 Parts, and are built using Unsupervised Learning Techniques.
+Part 1: This part focused on segmenting cars into categories based on fuel consumption and other key attributes using the K-means clustering technique.
 
-Part 1 - 
-This project focused on segementing cars into categories by fuel consumption and other important attributes using K-means clustering technique.
-
-Part 2 - 
-This project calssifies a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. 
+Part 2: This part involved classifying vehicle silhouettes into one of three types using features extracted from the silhouettes. Dimensionality reduction with PCA was applied to identify the most significant features for model development. A Support Vector Machine (SVM) was then used to build the classification model, achieving an accuracy of 89%.
